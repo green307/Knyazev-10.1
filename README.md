@@ -40,3 +40,6 @@ virtual_ipaddress {
 Пришлите скриншот рабочей конфигурации и состояния сервиса для каждого нода.
 
 Ответ
+
+![alt text](https://github.com/green307/Knyazev-10.1/blob/main/Нода1.jpg)
+![alt text](https://github.com/green307/Knyazev-10.1/blob/main/Нода2.jpg)
